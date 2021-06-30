@@ -1,0 +1,12 @@
+<html>
+  <title>seguridad</title>
+
+  <body background="fotos/seguridas.png">
+  <p>toda la informacion que tu proporciones a este sitio web sera toda guardada y codificada para que 
+   nadie pueda verla siente seguro de navegar por nuestro sitio web con libertar.  </p><br/>
+  <h3 color="red">"ESTE SITIO ES SEGURO"</h3>
+
+
+  </body>
+
+</html>

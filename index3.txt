@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title> pagina principal <title/>
+  <head/>
+
+  <body>
+   <h1 text="0000ff"> BIENVENIDO A MI PAGINA WEB <h1/>
+
+
+
+
+
+
+
+  <body>
+
+<html/>

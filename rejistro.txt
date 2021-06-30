@@ -1,0 +1,16 @@
+<html>
+<head>
+   <title> formulario de prueba html </title>
+</head>
+
+<body bgcolor="blue">
+  <from action="mailto:jesus360papi@gmail.com" method="get">
+    <p> Nombre: <input type="tex" name="name_control" size="54" autofocus required/> </p>
+    <p> Nombre: <input type="tex" name="name_control" size="54" autofocus required/> </p>
+    <p> Nombre: <input type="tex" name="name_control" size="54" autofocus required/> </p>
+    <p> Nombre: <input type="tex" name="name_control" size="54" autofocus required/> </p>
+    <p> Nombre: <input type="tex" name="name_control" size="54" autofocus required/> </p>
+    <p> <input type="submit" name="ENVIAR" /> </p>
+</from>
+</body>
+</html>

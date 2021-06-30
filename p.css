@@ -1,0 +1,26 @@
+a{
+  font-size:20px;
+  color:blue;
+  text-decoration:none;
+  padding:5px  5px;
+  marging:10px 10px 10px 10px;
+  background:#ccc;
+  display: inline-block;
+  box-shodow:2px 5px 0px black;
+}
+
+body{
+  background:(fotos/seguridas.png);
+  color:#fff;
+  background-repeat:no-repret;
+  background-attachnent:fixed;
+  background-position: 500px 200px;
+}
+
+h1{
+ color:red;
+}
+
+h3{
+  color:red;
+}
